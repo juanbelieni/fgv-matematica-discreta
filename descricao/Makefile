@@ -1,4 +1,2 @@
-main.pdf: main.tex
-	@mkdir -p /tmp/latex
-	pdflatex -output-directory=/tmp/latex main.tex
-	cp /tmp/latex/main.pdf .
+main.pdf: main.tex refs.bib
+	latexmk -auxdir=/tmp/latex -pdf main.tex
