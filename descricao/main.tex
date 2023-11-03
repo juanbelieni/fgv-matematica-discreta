@@ -24,8 +24,13 @@
 \setlength{\parskip}{\baselineskip}
 \setlength{\parindent}{17pt}
 
-\usepackage[sorting=none, backend=bibtex]{biblatex}
-\addbibresource{refs.bib}
+% \usepackage[sorting=none, backend=bibtex]{biblatex}
+
+% \addbibresource{refs.bib}
+
+\usepackage[square,numbers]{natbib}
+
+%\PassOptionsToPackage{square,numbers}{natbib}
 
 \hypersetup{
 	colorlinks=true,       % false: boxed links; true: colored links
@@ -53,10 +58,15 @@
 
 \section{Descrição}
 
-Primeiramente, vamos definir grafos de hipercubos e discutir algumas de suas propriedades, utilizando o trabalho de \citeauthor{harary_survey_1988}. Depois, vamos apresentar o teorema que todo \textit{perfect matching} desse tipo de grafo pode ser estendido em um ciclo Hamiltoniano, nos baseando na prova de \citeauthor{fink_perfect_2007}.
+% nesse trabalho pretendemos explorar ...
+Neste trabalho, pretendemos explorar definições, teoremas e algoritmos envolvendo hipercubos, em especial associados a \textit{matchings} e ciclos Hamiltonianos. Primeiramente, vamos definir grafos de hipercubos e discutir algumas de suas propriedades, utilizando como base o trabalho de \citet{harary_survey_1988}. Depois, vamos apresentar o teorema que todo \textit{perfect matching} desse tipo de grafo pode ser estendido em um ciclo Hamiltoniano, nos baseando na prova de \citet{fink_perfect_2007}.
 
-Se possível, vamos implementar algum algoritmo para estender o ciclo Hamiltoniano a partir de um dado \textit{perfect matching} para que seja possível visualizar o ciclo no grafo.
+Se possível, pretendemos ainda implementar algum algoritmo para estender o ciclo Hamiltoniano a partir de um dado \textit{perfect matching}, para que seja possível visualizar o ciclo no grafo.
 
-\printbibliography
+% \printbibliography
+\bibliographystyle{plainnat}
+\bibliography{refs}
+
+
 
 \end{document}
