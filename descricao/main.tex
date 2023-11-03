@@ -1,0 +1,62 @@
+\documentclass[11pt]{article}
+
+% Pacotes necessários
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{lipsum}
+\usepackage{mathpazo}
+\usepackage[a4paper, left = 2cm, right = 2cm, bottom = 2cm, top = 2cm]{geometry}
+\usepackage[brazil]{babel}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{indentfirst}
+\usepackage{caption}
+\usepackage{url}
+\usepackage{subfig}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{makecell, multirow, tabularx}
+\usepackage{url}
+\usepackage{blindtext}
+
+\setlength{\parskip}{\baselineskip}
+\setlength{\parindent}{17pt}
+
+\usepackage[sorting=none, backend=bibtex]{biblatex}
+\addbibresource{refs.bib}
+
+\hypersetup{
+	colorlinks=true,       % false: boxed links; true: colored links
+	linkcolor=purple,      % color of internal links (change box color with linkbordercolor)
+	citecolor=black,       % color of links to bibliography
+	filecolor=black,       % color of file links
+	urlcolor=purple        % color of external lin
+}
+
+\title{
+	Descrição do projeto de trabalho de Matemática Discreta \\ \vspace{0.2cm}
+	\large \textit{Matchings} e ciclos Hamiltonianos em grafos de hipercubos
+}
+
+\author{
+	Amanda de Mendonça Perez \\
+	Juan Belieni de Castro Araujo
+}
+
+\date{\today}
+
+\begin{document}
+	
+\maketitle
+
+\section{Descrição}
+
+Primeiramente, vamos definir grafos de hipercubos e discutir algumas de suas propriedades, utilizando o trabalho de \citeauthor{harary_survey_1988}. Depois, vamos apresentar o teorema que todo \textit{perfect matching} desse tipo de grafo pode ser estendido em um ciclo Hamiltoniano, nos baseando na prova de \citeauthor{fink_perfect_2007}.
+
+Se possível, vamos implementar algum algoritmo para estender o ciclo Hamiltoniano a partir de um dado \textit{perfect matching} para que seja possível visualizar o ciclo no grafo.
+
+\printbibliography
+
+\end{document}
