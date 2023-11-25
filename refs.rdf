@@ -1,0 +1,413 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0095895607000354">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00958956"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fink</foaf:surname>
+                        <foaf:givenName>Jiří</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Perfect matchings extend to Hamilton cycles in hypercubes</dc:title>
+        <dc:date>11/2007</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0095895607000354</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-31 11:02:22</dcterms:dateSubmitted>
+        <bib:pages>1074-1076</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00958956">
+        <prism:volume>97</prism:volume>
+        <dc:title>Journal of Combinatorial Theory, Series B</dc:title>
+        <dc:identifier>DOI 10.1016/j.jctb.2007.02.007</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Journal of Combinatorial Theory, Series B</dcterms:alternative>
+        <dc:identifier>ISSN 00958956</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>platonic.html</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://math.ucr.edu/home/baez/platonic.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-31 17:07:16</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kam.mff.cuni.cz/~fink/publications/kreweras1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-10-31 11:02:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/0898122188902131">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:08981221"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harary</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenName>John P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Horng-Jyh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <dc:title>A survey of the theory of hypercube graphs</dc:title>
+        <dc:date>1988</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/0898122188902131</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-01 17:37:44</dcterms:dateSubmitted>
+        <bib:pages>277-289</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:08981221">
+        <prism:volume>15</prism:volume>
+        <dc:title>Computers &amp; Mathematics with Applications</dc:title>
+        <dc:identifier>DOI 10.1016/0898-1221(88)90213-1</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Computers &amp; Mathematics with Applications</dcterms:alternative>
+        <dc:identifier>ISSN 08981221</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://deepblue.lib.umich.edu/bitstream/2027.42/27522/1/0000566.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-01 17:37:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-201-41033-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge, Mass</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Perseus Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harary</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <dc:title>Graph theory</dc:title>
+        <dc:date>2001</dc:date>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://users.metu.edu.tr/aldoks/341/Book%201%20(Harary).pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-0-201-41033-4</dc:identifier>
+        <prism:edition>15. print.</prism:edition>
+        <z:numPages>274</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Book 1 (Harary).pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://users.metu.edu.tr/aldoks/341/Book%201%20(Harary).pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-20 17:31:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://www.ibilce.unesp.br/Home/Departamentos/MatematicaAplicada/docentes/socorro/grafos---notas-de-aula_set2018.pdf">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>IBILCE, Unesp</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Socorro Rangel</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Valeriano A. de Oliveira</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Silvio A. Araujo</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_82"/>
+        <dc:title>Elementos de Teoria dos Grafos: Notas de Aula</dc:title>
+        <dc:date>2018-09-24</dc:date>
+        <z:language>pt-BR</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ibilce.unesp.br/Home/Departamentos/MatematicaAplicada/docentes/socorro/grafos---notas-de-aula_set2018.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_82">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ibilce.unesp.br/Home/Departamentos/MatematicaAplicada/docentes/socorro/grafos---notas-de-aula_set2018.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-14 20:13:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_120">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Bulletin of the Institute of Combinatorics and its Applications</dc:title>
+                <dcterms:alternative>Bulletin of the Institute of Combinatorics and its Applications</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kreweras</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_121"/>
+        <dc:title>Matchings and Hamiltonian cycles on hypercubes</dc:title>
+        <dc:date>1996-01-01</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/265933874_Matchings_and_Hamiltonian_cycles_on_hypercubes</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-24 19:53:01</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2106.00513">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1855-3974,%201855-3966"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abreu</foaf:surname>
+                        <foaf:givenName>Marién</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gauci</foaf:surname>
+                        <foaf:givenName>John Baptist</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Labbate</foaf:surname>
+                        <foaf:givenName>Domenico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Romaniello</foaf:surname>
+                        <foaf:givenName>Federico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zerafa</foaf:surname>
+                        <foaf:givenName>Jean Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_130"/>
+        <link:link rdf:resource="#item_131"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>05C15, 05C45, 05C70</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Combinatorics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Perfect matchings, Hamiltonian cycles and edge-colourings in a class of cubic graphs</dc:title>
+        <dcterms:abstract>A graph $G$ has the Perfect-Matching-Hamiltonian property (PMH-property) if for each one of its perfect matchings, there is another perfect matching of $G$ such that the union of the two perfect matchings yields a Hamiltonian cycle of $G$. The study of graphs that have the PMH-property, initiated in the 1970s by Las Vergnas and H\&quot;{a}ggkvist, combines three well-studied properties of graphs, namely matchings, Hamiltonicity and edge-colourings. In this work, we study these concepts for cubic graphs in an attempt to characterise those cubic graphs for which every perfect matching corresponds to one of the colours of a proper 3-edge-colouring of the graph. We discuss that this is equivalent to saying that such graphs are even-2-factorable (E2F), that is, all 2-factors of the graph contain only even cycles. The case for bipartite cubic graphs is trivial, since if $G$ is bipartite then it is E2F. Thus, we restrict our attention to non-bipartite cubic graphs. A sufficient, but not necessary, condition for a cubic graph to be E2F is that it has the PMH-property. The aim of this work is to introduce an infinite family of E2F non-bipartite cubic graphs on two parameters, which we coin papillon graphs, and determine the values of the respective parameters for which these graphs have the PMH-property or are just E2F. We also show that no two papillon graphs with different parameters are isomorphic.</dcterms:abstract>
+        <dc:date>2022-10-22</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2106.00513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-24 22:19:14</dcterms:dateSubmitted>
+        <dc:description>arXiv:2106.00513 [math]</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1855-3974,%201855-3966">
+        <prism:volume>23</prism:volume>
+        <dc:title>Ars Mathematica Contemporanea</dc:title>
+        <dc:identifier>DOI 10.26493/1855-3974.23_3</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Ars Math. Contemp.</dcterms:alternative>
+        <dc:identifier>ISSN 1855-3974, 1855-3966</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_130">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2106.00513.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-24 22:19:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_131">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2106.00513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-24 22:19:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0195669820300329">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0195-6698"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fink</foaf:surname>
+                        <foaf:givenName>Jiří</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_133"/>
+        <link:link rdf:resource="#item_134"/>
+        <dc:title>Two algorithms extending a perfect matching of the hypercube into a Hamiltonian cycle</dc:title>
+        <dcterms:abstract>In paper Fink (2007) we proved Kreweras’ conjecture (Kreweras, 1996) asserting that every perfect matching of the n-dimensional hypercube can be extended into a Hamiltonian cycle. In this paper, we present two algorithms to find a Hamiltonian cycle extending a given perfect matching. The first algorithm computes the entire Hamiltonian cycle in time linear in the number of vertices answering a question raised by Knuth (2008) . The second algorithm outputs edges as they occur on the Hamiltonian cycle and the first k edges are found in time polynomial in both n and k.</dcterms:abstract>
+        <dc:date>2020-08-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0195669820300329</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-25 00:51:25</dcterms:dateSubmitted>
+        <bib:pages>103111</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0195-6698">
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Selected papers of EuroComb17</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>88</prism:volume>
+        <dc:title>European Journal of Combinatorics</dc:title>
+        <dc:identifier>DOI 10.1016/j.ejc.2020.103111</dc:identifier>
+        <dcterms:alternative>European Journal of Combinatorics</dcterms:alternative>
+        <dc:identifier>ISSN 0195-6698</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_133">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0195669820300329</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-25 00:51:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_134">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Two algorithms extending a perfect matching of the hypercube into a Hamiltonian cycle</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.ru//downloads/2020-06-14/88/fink2020.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-25 00:55:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
